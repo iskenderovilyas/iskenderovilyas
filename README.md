@@ -1,3 +1,2 @@
-<div id="header" align="center">
-<img src= "https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="100"/>
-</div>
+![image](https://github.com/iskenderovilyas/iskenderovilyas/assets/120571187/85083aa8-cc37-4867-80e9-aca113a2b3d1)
+
